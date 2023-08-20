@@ -1,0 +1,5 @@
+|NodeNo|       |No ACO Scene|               |Hops|       |Packets sent|          |Dead node|
+     9                    2                    4                 5694                    6
+     9                    3                    5                 6467                    3
+     9                    4                    5                12360                    5
+     9                    5                    5                12926                    9
